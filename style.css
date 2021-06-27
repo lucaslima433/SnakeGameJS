@@ -1,0 +1,14 @@
+body{
+    height: 95vh;
+    width: 95vw;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    background-color: rgb(245, 244, 244);
+}
+
+canvas {
+    border: rgb(63, 63, 63) 3px solid;
+}
